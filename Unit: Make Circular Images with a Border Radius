@@ -1,0 +1,1 @@
+"border-radius: 50%;" and "border-radius: 50px;" give the same output. Then why is it recommended to use the % than px for changing the border radius?
